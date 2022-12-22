@@ -40,9 +40,9 @@ users can see here his total score, correct, incorrect and percentage of the att
 
 ## Usage :
 1. npm i
-2. set up quiz.
-3. start quiz, next for next quiz and privious for privious quiz.
-4.see total result in result page.
+2. set up a quiz.
+3. start the quiz, next for the next quiz, and previous for the previous quiz.
+4. see the total result on the result page.
 
 
 ## Contributor 
